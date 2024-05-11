@@ -14,6 +14,7 @@ line-height:1.45;
 /* Video Overlay */
 
 #overlay {
+
 height:100%;
 left:0;
 position:relative;
@@ -22,7 +23,7 @@ transition:background-color 300ms ease;
 width:100%;
 }
 
-.fade { background-color:rgba(0,0,0,.7) !important; }
+.fade { background-color:rgba(0, 0, 0, 0.7) !important; }
 
 
 /* Hero Video + Fallback */
