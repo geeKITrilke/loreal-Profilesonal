@@ -14,7 +14,7 @@ line-height:1.45;
 /* Video Overlay */
 
 #overlay {
-
+background-color:rgba(0, 0, 0, 0.7)
 height:100%;
 left:0;
 position:relative;
